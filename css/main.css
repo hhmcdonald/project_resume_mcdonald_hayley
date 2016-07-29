@@ -1,0 +1,97 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body {
+	font-family: 'Merriweather', serif;
+    line-height: 1.6em;
+    background: #f4f4f4;
+}
+
+.topBar {
+    width: 100%;
+    background: #1c526c;
+    padding: 5px;
+}
+
+#container {
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+/* Header */
+
+header {
+    text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+header h1, header h2 {
+    text-align: center;
+    padding: 0 0.5em;
+    display: inline-block;
+	margin: 0.5em 0;
+}
+
+header h1 {
+    font-size: 3em;
+    line-height: 1em;
+}
+
+header h2 {
+    font-size: 1.2em;
+}
+
+.banner {
+    text-align: center;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+	max-width: 1800px;
+}
+
+/* Main */
+
+section {
+    border-top: #1c526c solid 4px;
+    padding: 1em;
+    width: 100%;
+    margin: 10px 0;
+    text-align: center;
+}
+
+section:first-child {
+    border: none;
+}
+
+section h3, secion h4, section p {
+    max-width: 800px;
+    margin: auto;
+}
+
+section h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 2.2em;
+	padding: 0.5em 0;
+}
+
+section h4 {
+	margin: 0.8em 0;
+}
+
+section p {
+	font-size: 0.8em;
+}
+
+.employmentHistory h4, .education h4 {
+	cursor: pointer;
+}

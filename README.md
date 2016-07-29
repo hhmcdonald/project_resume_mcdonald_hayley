@@ -1,5 +1,7 @@
 # [Hayley's Resume repo](https://github.com/hhmcdonald/project_resume_mcdonald_hayley)
 
+# [Hayley's Live Resume](http://hayleymacdesigns.com/resume/)
+
 ## Resources
 
 * [Tooltipster plugin](http://iamceege.github.io/tooltipster/) - I used this as one of my jQuery plugins. I applied the hover styling on the h4s in my Employment and Education sections. I used this to add a bit more information for my readers (potential employers) so as to not clutter the page but also give them a fun surprise to find more information throughout the page.

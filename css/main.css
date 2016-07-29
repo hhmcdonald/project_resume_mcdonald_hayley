@@ -95,3 +95,17 @@ section p {
 .employmentHistory h4, .education h4 {
 	cursor: pointer;
 }
+
+/*
+@media all and (min-width: 700px) {
+    section {
+        border-top: none;
+        border-left: #1c526c solid 8px;
+        padding: 1em;
+        display: inline-block;
+        width: 45%;
+    }
+}
+*/
+
+/* Footer */
